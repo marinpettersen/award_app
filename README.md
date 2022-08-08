@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 ## USER LOGIN
-only accept user = `"admin@gmail.com`
+only accept user = `"admin@gmail.com"`
 
 ## Getting Started
 First install node modules
